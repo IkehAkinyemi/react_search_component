@@ -1,0 +1,30 @@
+.App {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.App__header {
+  background: -webkit-linear-gradient(315deg,#42d392 25%,#647eff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    margin: 100px 0 50px 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .App {
+    padding: 0 20px;
+  }
+  .App__header {
+    text-align: center;
+    font-size: 35px;
+  }
+  .search-bar__input {
+    font-size: 16px;
+  }
+  .search-bar__suggestion {
+    font-size: 13px;
+  }
+
+}

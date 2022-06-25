@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500;600;700;800;900&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:rgb(92, 92, 92);
+  background-image: linear-gradient(135deg, rgba(244, 244, 244,0.07) 0%, rgba(244, 244, 244,0.07) 12.5%,rgba(211, 211, 211,0.07) 12.5%, rgba(211, 211, 211,0.07) 25%,rgba(178, 178, 178,0.07) 25%, rgba(178, 178, 178,0.07) 37.5%,rgba(145, 145, 145,0.07) 37.5%, rgba(145, 145, 145,0.07) 50%,rgba(113, 113, 113,0.07) 50%, rgba(113, 113, 113,0.07) 62.5%,rgba(80, 80, 80,0.07) 62.5%, rgba(80, 80, 80,0.07) 75%,rgba(47, 47, 47,0.07) 75%, rgba(47, 47, 47,0.07) 87.5%,rgba(14, 14, 14,0.07) 87.5%, rgba(14, 14, 14,0.07) 100%),linear-gradient(45deg, rgba(236, 236, 236,0.07) 0%, rgba(236, 236, 236,0.07) 12.5%,rgba(210, 210, 210,0.07) 12.5%, rgba(210, 210, 210,0.07) 25%,rgba(183, 183, 183,0.07) 25%, rgba(183, 183, 183,0.07) 37.5%,rgba(157, 157, 157,0.07) 37.5%, rgba(157, 157, 157,0.07) 50%,rgba(130, 130, 130,0.07) 50%, rgba(130, 130, 130,0.07) 62.5%,rgba(104, 104, 104,0.07) 62.5%, rgba(104, 104, 104,0.07) 75%,rgba(77, 77, 77,0.07) 75%, rgba(77, 77, 77,0.07) 87.5%,rgba(51, 51, 51,0.07) 87.5%, rgba(51, 51, 51,0.07) 100%),linear-gradient(90deg, #000000,#000000);}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
